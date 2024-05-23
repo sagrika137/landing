@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header, footer {
+    background-color: #333;
+    color: #bb7676;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  h1, h2 {
+    margin-bottom: 10px;
+  }
+  
+  .intro, .highlights, .qualifications {
+    padding: 20px;
+  }
+  
+  .intro p, .highlights ul, .qualifications ul {
+    margin-bottom: 10px;
+  }
+  .cta-buttons .apply-now {
+    background-color: #28a745;
+}
+
+.cta-buttons .apply-now:hover {
+    background-color: #218838;
+}
+
+.cta-buttons .learn-more {
+    background-color: #ff6600;
+}
+
+.cta-buttons .learn-more:hover {
+    background-color: #d900a6;
+}
+  
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  a {
+    color: #5a4a4a;
+  }
+  
+  a:hover {
+    color: #baa94a;
+  }
