@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Developer Internship Opportunities at Cognifyz Technologies</title>
+    <link rel="stylesheet" href="landscape.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Web Developer Internship Opportunities at Cognifyz Technologies</h1>
+        </header>
+        <section class="introduction">
+            <p>Join our internship program at Cognifyz Technologies and gain valuable experience in web development. The internship typically lasts 3 to 6 months.</p>
+        </section>
+        <section class="highlights">
+            <h2>Highlights</h2>
+            <ul>
+                <li>Real-world experience in web development projects</li>
+                <li>Mentorship from experienced developers</li>
+                <li>Opportunity to work on live projects</li>
+                <li>Networking with industry professionals</li>
+            </ul>
+        </section>
+        <section class="qualifications">
+            <h2>Qualifications</h2>
+            <ul>
+                <li>Proficiency in HTML, CSS, and JavaScript</li>
+                <li>Knowledge of web development frameworks (e.g., React, Angular)</li>
+                <li>Experience with version control systems (e.g., Git)</li>
+                <li>Understanding of backend technologies (e.g., Node.js, Django)</li>
+            </ul>
+        </section>
+        <a href="#" class="cta-btn">Apply Now</a>
+        <footer>
+            <p>Contact us for inquiries: info@cognifyz.com | Phone: +1234567890</p>
+        </footer>
+    </div>
+</body>
+</html>
